@@ -1,1 +1,2 @@
 Mutux is locking object.
+Mutux contains locking and unlocking system.
